@@ -1,0 +1,52 @@
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\SchoolProject2.exe.config
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\SchoolProject2.exe
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\SchoolProject2.pdb
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\EntityFramework.dll
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\EntityFramework.xml
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.csprojAssemblyReference.cache
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.csproj.CoreCompileInputs.cache
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.csproj.CopyComplete
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.exe
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.pdb
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.init.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.csproj.GenerateResource.cache
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.NewChange.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations._3rdchange.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.billl.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations._new.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.fwefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.Efefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.efweffef.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.efwefwef.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.eewfewq.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.WEewgqerterqtqe.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.EWfewfe.resources
+C:\Users\dimitris\Desktop\Individual\SchoolProject2\SchoolProject2\obj\Debug\SchoolProject2.Migrations.dfefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\SchoolProject2.exe.config
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\SchoolProject2.exe
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\SchoolProject2.pdb
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\EntityFramework.dll
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\EntityFramework.xml
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.csprojAssemblyReference.cache
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.init.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.NewChange.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations._3rdchange.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.billl.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations._new.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.fwefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.Efefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.efweffef.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.efwefwef.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.eewfewq.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.WEewgqerterqtqe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.EWfewfe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.Migrations.dfefwefwe.resources
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.csproj.GenerateResource.cache
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.csproj.CoreCompileInputs.cache
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.csproj.CopyComplete
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.exe
+C:\Users\dimitris\Desktop\Individual\Andreadis_Petros_CB_7_Individual Project\SchoolProject2\obj\Debug\SchoolProject2.pdb
